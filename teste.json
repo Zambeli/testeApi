@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "atualizacao": "2024-10-05T14:48:00Z",
+    "comentarios": 12,
+    "horas_atras": 3,
+    "titulo": "Aprendendo a usar JSON"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "atualizacao": "2024-10-06T09:20:00Z",
+    "comentarios": 5,
+    "horas_atras": 6,
+    "titulo": "Entendendo as rotas no Express"
+  },
+  {
+    "id": 3,
+    "nome": "Pedro Souza",
+    "atualizacao": "2024-10-07T12:15:00Z",
+    "comentarios": 20,
+    "horas_atras": 1,
+    "titulo": "Desenvolvendo APIs com Node.js"
+  }
+]
